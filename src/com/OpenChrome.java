@@ -16,6 +16,7 @@ public class OpenChrome {
 		driver.navigate().to("https://google.com");
 		driver.navigate().back();
 		driver.navigate().forward();
+		driver.navigate().back();
 
 	}
 
