@@ -16,7 +16,10 @@ public class OpenChrome {
 		driver.navigate().to("https://google.com");
 		driver.navigate().back();
 		driver.navigate().forward();
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'master' of https://github.com/Diptee89/Selenium-4.0.git
 
 	}
 
